@@ -1,4 +1,8 @@
 # Redes Petri
+
+Instituto Tecnologico de Iztapalapa I
+
+Lenguajes y Automatas I - ISC - 6AM
 Este repositorio cuenta con un reporte y un proyecto acerca de las Redes Petri asi como una implementacion para aquellos que gusten de usar el modelo computacional Redes Petri en alguna actividad de su dia a dia puedan gozar de este enriquecedor documento.
 
 Fuentes de informacion:
