@@ -10,7 +10,7 @@ Fuentes de informacion:
 
 Libro: La guía de Scrum por Ken Schwaber y Jeff Sutherland - Novimebre 2017
 
-https://icc.fcen.uba.ar/teoria-de-la-computacion/#:~:text=La%20teor%C3%ADa%20de%20la%20computaci%C3%B3n%20se%20ocupa%20de,las%20computadoras%20cu%C3%A1nticas%20%28cuyo%20funcionamiento%20no%20es%20digital%29
+*https://icc.fcen.uba.ar/teoria-de-la-computacion/#:~:text=La%20teor%C3%ADa%20de%20la%20computaci%C3%B3n%20se%20ocupa%20de,las%20computadoras%20cu%C3%A1nticas%20%28cuyo%20funcionamiento%20no%20es%20digital%29
 
 https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_computaci%C3%B3n
 
