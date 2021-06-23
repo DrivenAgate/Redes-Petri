@@ -1,6 +1,6 @@
 ## Redes Petri
 
-Instituto Tecnologico de Iztapalapa
+#Instituto Tecnologico de Iztapalapa
 
 Lenguajes y Automatas I - ISC - 6AM
 
